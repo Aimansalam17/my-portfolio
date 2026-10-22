@@ -1,0 +1,14 @@
+/* Custom Styles for Portfolio */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero-img {
+    max-width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+section {
+    scroll-margin-top: 60px;
+}
